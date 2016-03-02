@@ -1,0 +1,18 @@
+{
+  "name": "my-mocha-project",
+  "version": "1.0.0",
+  "description": "mahh project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha my-mocha-project"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Edward Zhou",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
